@@ -55,4 +55,4 @@ Diante do exposto, esta Junta Regular exara o laudo acima nos termos da alínea 
 
 ---
 
-#### [Ir para o exemplo 4 — Controle periódico trienal →](exemplo-4-controle-trienal.md)
+#### [Próximo exemplo: Controle periódico trienal →](exemplo-4-controle-trienal.md)
