@@ -63,7 +63,7 @@ Caso fictício, usado para ilustrar o fluxo de uma IS de Verificação de Térmi
 
 > Assim, impõe-se o afastamento temporário de parte de suas atividades laborativas, com restrições para permanecer em pé por períodos superiores a duas horas, para TAF, TFM e sobrecarga sobre o pé esquerdo, por 60 dias, período suficiente para a conclusão da fase inicial do tratamento conservador e reavaliação da resposta clínica, devendo o militar ser inscrito pela OM no programa de reabilitação das deficiências funcionais.
 
-> Diante do exposto, esta Junta Regular exara o laudo acima nos termos da alínea e do inciso 6.1.4 e da alínea b do inciso 6.3.1 da DGPM-406 (9ª Rev)."
+> Diante do exposto, esta Junta Regular exara o laudo acima nos termos da `alínea e do inciso 6.1.4 e da alínea b do inciso 6.3.1 da DGPM-406 (9ª Rev)`."
 
 ---
 
