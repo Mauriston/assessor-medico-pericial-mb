@@ -1,5 +1,6 @@
 # Exemplo 2: IS de Ingresso com laudo de inaptidão
-[DGPM-406 capítulo 3](referencias/dgpm-406/capitulo-03.md)  |  [Anexo O](referencias/dgpm-406/anexos/anexo-o.md)
+* [DGPM-406 capítulo 3](referencias/dgpm-406/capitulo-03.md)  
+* [Anexo O](referencias/dgpm-406/anexos/anexo-o.md)
 
 ## Comando
 
