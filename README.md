@@ -39,19 +39,19 @@ Caso fictício, usado para ilustrar o fluxo de uma IS de Verificação de Térmi
 
 **1. Pedido ao Claude**
 
-<img src="assets/exemplo-01-pedido.png" alt="Pedido de IS fim VDF enviado ao Claude" width="600">
+<img src="assets/exemplo-01-pedido.png" alt="Pedido de IS fim VDF enviado ao Claude" width="720">
 
 **2. Bloco de entrevista**
 
-<img src="assets/exemplo-02-entrevista.png" alt="Bloco de entrevista gerado pela skill" width="600">
+<img src="assets/exemplo-02-entrevista.png" alt="Bloco de entrevista gerado pela skill" width="720">
 
 **3. Exame clínico**
 
-<img src="assets/exemplo-03-exame-clinico.png" alt="Bloco de exame clínico gerado pela skill" width="600">
+<img src="assets/exemplo-03-exame-clinico.png" alt="Bloco de exame clínico gerado pela skill" width="720">
 
 **4. Conclusão**
 
-<img src="assets/exemplo-04-conclusao.png" alt="Bloco de conclusão gerado pela skill" width="600">
+<img src="assets/exemplo-04-conclusao.png" alt="Bloco de conclusão gerado pela skill" width="720">
 
 **Conclusão na íntegra:**
 
