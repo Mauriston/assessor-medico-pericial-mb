@@ -1,7 +1,7 @@
 # assessor-pericial-dgpm406
 
 <p align="center">
-  <img src="assets/capa-dgpm-406.png" alt="Capa da DGPM-406 (9ª Revisão) — Normas Reguladoras para Inspeções de Saúde na Marinha" width="640">
+  <img src="assets/capa-dgpm-406.png" alt="Capa da DGPM-406 (9ª Revisão) — Normas Reguladoras para Inspeções de Saúde na Marinha" width="260">
 </p>
  
 Skill para Claude que assessora a redação de documentos médico-periciais de Inspeção de Saúde (IS) com base na **DGPM-406 (9ª Revisão)**, normas da Marinha do Brasil, e na legislação correlata.
@@ -33,39 +33,14 @@ Cada gatilho aciona um fluxo diferente da skill. Os exemplos abaixo são ilustra
 | Assinatura | `#ASSINATURA` | Retorna o bloco de assinatura, com data no formato DDMMMAAA |
 | Correção durável | `# ATENÇÃO! INFORMAÇÃO PARA CONHECIMENTO:` seguido do texto | Registra a correção em `correcoes.md` e aplica a regra nas respostas seguintes |
 
-## Exemplo de uso
+## Exemplos de uso
 
-Caso fictício, usado para ilustrar o fluxo de uma IS de Verificação de Término de Restrições (fim VDF), do pedido à conclusão.
+Quatro exemplos completos, em texto, com o comando enviado, as perguntas da skill e a entrega final. Todos são casos fictícios.
 
-**1. Pedido ao Claude**
-
-<img src="assets/exemplo-01-pedido.png" alt="Pedido de IS fim VDF enviado ao Claude" width="960">
-
-**2. Bloco de entrevista**
-
-<img src="assets/exemplo-02-entrevista.png" alt="Bloco de entrevista gerado pela skill" width="960">
-
-**3. Exame clínico**
-
-<img src="assets/exemplo-03-exame-clinico.png" alt="Bloco de exame clínico gerado pela skill" width="960">
-
-**4. Conclusão**
-
-<img src="assets/exemplo-04-conclusao.png" alt="Bloco de conclusão gerado pela skill" width="960">
-
-**Conclusão na íntegra:**
-
-> "Inspecionado com fasciíte plantar à esquerda de início há cerca de um mês, associada a tenossinovite do flexor longo do hálux e dos fibulares, em pé com antecedente de correção cirúrgica de deformidade em cavo-varo na adolescência, achados confirmados pela USG de 17SET2026 e coerentes com o exame físico, que evidencia dor à palpação da inserção calcânea da fáscia plantar e dos trajetos tendíneos, marcha discretamente antálgica e tornozelo sem instabilidade ligamentar.
-
-> Trata-se de quadro agudo, de natureza inflamatória e potencialmente curável, em tratamento medicamentoso e fisioterápico com resposta parcial, que não justifica afastamento total do trabalho, mas cuja evolução é agravada pela carga mecânica sobre o retropé esquerdo.
-
-> A rotina de Taifeiro exige permanência prolongada em ortostatismo e deslocamentos frequentes durante a jornada, o que sobrecarrega a fáscia plantar e os tendões acometidos, perpetuando a inflamação e retardando a recuperação. Da mesma forma, a corrida, os saltos e os exercícios de impacto inerentes ao TAF e ao TFM são incompatíveis com a fase atual do tratamento.
-
-> Assim, impõe-se o afastamento temporário de parte de suas atividades laborativas, com restrições para permanecer em pé por períodos superiores a duas horas, para TAF, TFM e sobrecarga sobre o pé esquerdo, por 60 dias, período suficiente para a conclusão da fase inicial do tratamento conservador e reavaliação da resposta clínica, devendo o militar ser inscrito pela OM no programa de reabilitação das deficiências funcionais.
-
-> Diante do exposto, esta Junta Regular exara o laudo acima nos termos da `alínea e do inciso 6.1.4 e da alínea b do inciso 6.3.1 da DGPM-406 (9ª Rev)`."
-
----
+- [IS fim VDF de militar da ativa](docs/exemplo-1-fim-vdf.md)
+- [IS fim Ingresso na EFOMM, com inaptidão](docs/exemplo-2-ingresso-inaptidao.md)
+- [Gatilho de Ingresso normal, candidata feminina](docs/exemplo-3-ingresso-normal.md)
+- [IS de controle periódico trienal](docs/exemplo-4-controle-trienal.md)
 
 ## Conteúdo
  
