@@ -92,15 +92,81 @@ CRM-PE 20374
 
 **Exaro o não enquadramento nos benefícios requeridos.**
 
-## Perguntas da skill
+---
 
-> **Skill:** Em que data o benefício de isenção foi revogado, e com base em que?
->
-> **Presidente:** Revogado em 2021, após cinco anos sem evidência de doença, sem exames posteriores.
+## Comentário — Enquadramento de Benefício
 
-> **Skill:** Há algum exame ou relatório médico posterior a 2016 que documente o estado atual?
->
-> **Presidente:** Não.
+Confirmando o enquadramento antes da redação: nenhuma das duas modalidades requeridas se sustenta no quadro apresentado.
+
+**Preexistência de Invalidez** pressupõe que a invalidez (incapacidade total e permanente para toda e qualquer atividade laborativa) *exista* — a perícia apenas fixa a partir de quando. Não há aqui nenhum elemento, pregresso ou atual, caracterizador de invalidez: o periciado comparece sozinho, dirigindo o próprio veículo, e mantém plena autonomia para AVDs e AIVDs (divide tarefas domésticas com a esposa). O quadro oncológico (próstata, Gleason 6/ISUP 1, T2a, baixo risco, tratamento curativo em 2017) evoluiu para cura clínica documentada, sem evidência de doença há mais de 5 anos. Não existindo invalidez, não há data a fixar — a modalidade é inaplicável por ausência do próprio objeto pericial.
+
+**Auxílio-Invalidez de Militar Inativo** exige, além da invalidez (já afastada acima), necessidade de internação permanente em instituição apropriada e/ou assistência/cuidados permanentes de enfermagem (MP nº 2.215-10/2001; Lei nº 11.421/2006). O relato funcional do periciado é o exato oposto disso.
+
+A queixa atual (poliaciúria noturna indolor com perdas urinárias ocasionais) é inespecífica, sugestiva de quadro prostático benigno relacionado à idade, e carece de qualquer documentação complementar (o periciado não trouxe exames desde 2017) — o que, por si, já impede qualquer enquadramento retrospectivo, dado que a regra probatória do Cap. 9 exige dados fidedignos de absoluta convicção, não achados subjetivos.
+
+Segue a redação nos três blocos.
+
+```txt
+ENTREVISTA
+
+Periciado comparece à Inspeção de Saúde (IS) com finalidade de concessão de benefícios nas modalidades de Preexistência de Invalidez e de Auxílio-Invalidez de Militar Inativo, sozinho, referindo ter conduzido o próprio veículo até a unidade;
+
+Militar inativo, 82 anos, reformado por idade-limite no ano 2000;
+
+Refere ter recebido, em OUT2017, concessão de isenção de imposto de renda por enquadramento em Neoplasia Maligna, em decorrência de adenocarcinoma de próstata diagnosticado em JAN2017;
+
+Foi submetido a tratamento radioterápico externo com finalidade curativa, tendo recebido alta do oncologista e do urologista assistentes após período de acompanhamento não precisado por ele;
+
+Refere não ter retornado a consultas com esses especialistas nem realizado exames complementares relacionados desde então;
+
+Teve a isenção de imposto de renda revogada em OUT2022, após 5 anos do tratamento, por ausência de evidências de doença;
+
+Não trouxe à presente IS quaisquer exames ou relatórios médicos posteriores a 2017;
+
+Nega dor óssea, hematúria, perda ponderal ou outros sinais de alarme;
+
+Queixa-se apenas de poliaciúria noturna, de caráter indolor, com eventuais perdas urinárias por urgência, sem uso de fraldas ou dispositivos de contenção;
+
+É hipertenso, em uso regular de losartana, sem relato de outras comorbidades;
+
+Nega histórico de quedas, internações recentes ou uso de outros medicamentos;
+
+Refere residir com a esposa, com quem divide as tarefas domésticas, realizando de forma independente as atividades básicas e instrumentais de vida diária; e
+
+Nega necessidade de auxílio de terceiros para deambulação, higiene, alimentação ou demais cuidados pessoais.
+```
+
+```txt
+EXAME CLÍNICO
+
+Exame geral: bom estado geral, corado, hidratado, eupneico, lúcido e orientado. Deambulação independente, sem uso de dispositivos de auxílio à marcha;
+
+Aparelho cardiovascular: RCR em 2 tempos, bulhas normofonéticas, sem sopros. PA compatível com controle medicamentoso vigente. Pulsos periféricos simétricos e amplos;
+
+Abdome: plano, flácido, indolor à palpação, sem massas ou visceromegalias palpáveis. Ausência de sinais de bexigoma;
+
+Aparelho geniturinário: genitália externa sem alterações macroscópicas. Ausência de hematúria macroscópica ou sinais de retenção urinária aguda ao momento do exame;
+
+Cadeias linfonodais: ausência de linfonodomegalias palpáveis em regiões cervical, axilar e inguinal;
+
+Sistema osteoarticular: eixos preservados, sem deformidades. Ausência de dor à palpação de arcabouço costal, coluna vertebral ou ossos longos. Força muscular global Grau V;
+
+Avaliação funcional e cognitiva: orientado auto e alopsiquicamente, discurso coerente, memória preservada para fatos recentes e remotos. Realiza de forma independente as atividades básicas (higiene, alimentação, deambulação) e instrumentais (condução de veículo, tarefas domésticas) de vida diária; e
+
+Demais aparelhos e sistemas sem alterações dignas de nota.
+```
+
+```txt
+CONCLUSÃO
+
+Quanto à modalidade de Preexistência de Invalidez: esta modalidade pericial destina-se a estabelecer a partir de que data o periciado preencheu os critérios para invalidez definitiva em relação a um evento ou ato administrativo. Pressupõe, portanto, que a invalidez esteja caracterizada em algum momento, pregresso ou atual. No presente caso, não há qualquer elemento médico-pericial, documental ou clínico, que caracterize invalidez: o quadro oncológico prostático (adenocarcinoma acinar, Gleason 6/ISUP 1, estádio clínico I-T2a, classificação de risco baixo, sem infiltração perineural), tratado com radioterapia externa de finalidade curativa em 2017, evoluiu para cura clínica, com alta dos especialistas assistentes e ausência de evidências de doença por mais de 5 anos, sem qualquer recidiva ou metástase documentada. O periciado mantém, ademais, plena autonomia funcional, comparecendo desacompanhado, conduzindo o próprio veículo e realizando de forma independente as atividades básicas e instrumentais de vida diária. Inexistindo invalidez, carece de objeto a fixação de data de preexistência.
+
+Quanto à modalidade de Auxílio-Invalidez de Militar Inativo: além da invalidez — já afastada no item anterior —, esta modalidade exige a necessidade de internação permanente em instituição apropriada e/ou de assistência ou cuidados permanentes de enfermagem. O quadro funcional apresentado é incompatível com tal necessidade, não havendo qualquer indicação de dependência de terceiros para os cuidados pessoais ou para a vida em sociedade.
+
+Registra-se, por fim, que a queixa urinária atual (poliaciúria noturna indolor com perdas ocasionais) é inespecífica e não veio acompanhada de qualquer documentação médica complementar posterior a 2017, o que, por si, já impede o exame de qualquer enquadramento retrospectivo, ante a exigência de dados fidedignos de absoluta convicção para a verificação pericial de benefícios.
+
+Exaramos o seguinte laudo: "Não há elementos médico-periciais que caracterizem invalidez, atual ou preexistente, tampouco necessidade de assistência ou cuidados permanentes de enfermagem ou de internação institucional permanente, não se enquadrando o periciado nas modalidades de Preexistência de Invalidez e de Auxílio-Invalidez de Militar Inativo requeridas." Em conformidade com o disposto no Capítulo 9 da DGPM-406 (9ª Rev) e, quanto à modalidade de Auxílio-Invalidez de Militar Inativo, na MP nº 2.215-10/2001 e na Lei nº 11.421/2006.
+```
 
 ## Entrega
 
