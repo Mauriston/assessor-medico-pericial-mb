@@ -53,3 +53,7 @@ O exame clínico não evidenciou condições de inaptidão previstas no Anexo N 
 
 Diante do exposto, esta Junta Regular exara o laudo acima nos termos da alínea a do item 3.1.5 do Capítulo 3 da DGPM-406 (9ª Rev).
 ```
+
+---
+
+[Ir para o exemplo 4 — Controle periódico trienal →](exemplo-4-controle-trienal.md)
