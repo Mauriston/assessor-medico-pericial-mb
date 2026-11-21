@@ -1,4 +1,4 @@
-# Exemplo 2: IS fim Ingresso na EFOMM, com inaptidão
+# Exemplo 2: IS de Ingresso com laudo de inaptidão
 
 Caso fictício, redigido no formato da skill para mostrar o fluxo completo: o comando do Presidente, as perguntas da skill e a entrega final.
 
@@ -72,4 +72,4 @@ A inspecionada tomou ciência do direito de recurso administrativo em 1ª instâ
 
 ---
 
-[Ir para o exemplo 3 — Gatilho de Ingresso normal, candidata feminina →](exemplo-3-ingresso-normal.md)
+#### [Próximo exemplo: `IS de Ingresso` com atalho de gatilho →](exemplo-3-ingresso-normal.md)
