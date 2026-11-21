@@ -1,21 +1,49 @@
-# Exemplo 5: IS de benefícios, preexistência de invalidez e auxílio-invalidez de militar inativo (fictício)
+# Exemplo 5: IS de benefícios, preexistência de invalidez e auxílio-invalidez de militar reformado
 
 Caso fictício. Os nomes, datas, idade, local, unidade e resultados de exame foram inventados para este exemplo. Mostra uma IS de benefícios com duas modalidades e o não enquadramento, com a frase de ciência de recurso.
 
 ## Comando
 
-> Redija uma IS para concessão de benefícios nas seguintes modalidades:
->
-> * PREEXISTÊNCIA DE INVALIDEZ
-> * AUXÍLIO-INVALIDEZ DE MILITAR INATIVO
->
-> Trata-se de um militar inativo de 74 anos, reformado por idade limite em 1995, que recebeu isenção de imposto de renda em 2016 por enquadramento em neoplasia maligna de pulmão. Em 2021, após cinco anos do tratamento curativo e sem evidências de doença, o benefício foi revogado. Não trouxe exames ou relatórios médicos posteriores a 2016.
->
-> É hipertenso em uso regular de medicação e refere alta do oncologista após o tratamento, sem consultas nem exames relacionados desde então. No momento, queixa-se apenas de cansaço leve aos esforços habituais.
->
-> Comparece à inspeção sozinho, afirma que veio dirigindo seu veículo e que mora com a esposa, com quem divide as tarefas do lar.
->
-> Laudo histopatológico, datado de 2015 (dado ilustrativo): [NOME DO MÉDICO], CRM [XXX]. Carcinoma de pulmão, tipo não pequenas células, estádio I, tratado por cirurgia.
+> /assessor-pericial-dgpm406 Redija uma IS para concessão de benefícios nas seguintes modalidades:
+
+* PREEXISTÊNCIA DE INVALIDEZ
+* AUXÍLIO-INVALIDEZ DE MILITAR INATIVO
+
+
+Trata-se de um militar inativo de 82 anos, reformado por idade limite no ano 2000 e que recebeu a concessão de isenção do imposto de renda em OUT2017 por enquadramento em Neoplasia Maligna em virtude de câncer de próstata. Em OUT2022, após 5 anos do tratamento curativo do câncer e sem evidências de doença, teve o benefício revogado. Não trouxe quaisquer exames ou relatórios médicos posteriores À 2017.
+
+É hipertenso em uso regular de losartana e refere que recebeu alta do oncologista e do urologista um tempo após  o tratamento realizado e que nunca mais teve consultas com esse especialista e nem fez quaisquer exames relacioanados. No momento queixa-se apenas de poliaciúria noturna e indolor com eventuais perdas urinárias por não conseguir segurar.
+
+Comparece à Inspeção sozinho, afirma que veio guiando seu veículo e que mora com a esposa com quem divide as tarefas do lar.
+
+### LAUDO HISTOPATOLÓGICO:
+
+```txt
+
+SPAC - STUDIO DE PATOLOGIA CIRÚRGICA
+LAUDO HISTOPATOLÓGICO DATADO DE 27JAN2017.
+
+CONCLUSÃO:
+
+Produto de biópsia transretal da próstata, guiada por USG:
+1) Base direita:
+Adenocarcinoma acinar usual de próstata, Gleason 6 (3+3), grupo prognóstico ISUP: 1, ocupando 70% da amostra.
+Infiltração neoplásica perineural, não detectada.
+2) Terço médio direito:
+Adenocarcinoma acinar usual de próstata, Gleason 6 (3+3), grupo prognóstico ISUP: 1, ocupando 10% da amostra.
+Infiltração neoplásica perineural, não detectada.
+3) Ápice direito:
+Tecido prostático sem evidências de neoplasia.
+4) Base esquerda:
+Tecido prostático sem evidências de neoplasia.
+5) Terço médio esquerdo:
+Tecido prostático sem evidências de neoplasia.
+6) Ápice esquerdo:
+Tecido prostático sem evidências de neoplasia.
+
+DRA. ANA VIRGÍNIA GUENDLER
+CRM-PE 5597
+```
 
 ## Perguntas da skill
 
