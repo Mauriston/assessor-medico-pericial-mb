@@ -4,17 +4,11 @@ Caso fictício. Os nomes, datas, idade, local, unidade e resultados de exame for
 
 ## Comando
 
-> /assessor-pericial-dgpm406 Redija uma IS para concessão de benefícios nas seguintes modalidades:
+> `/assessor-pericial-dgpm406` Redija uma IS para concessão de benefícios nas seguintes modalidades:
+> * PREEXISTÊNCIA DE INVALIDEZ
+> * AUXÍLIO-INVALIDEZ DE MILITAR INATIVO
 
-* PREEXISTÊNCIA DE INVALIDEZ
-* AUXÍLIO-INVALIDEZ DE MILITAR INATIVO
-
-
-Trata-se de um militar inativo de 82 anos, reformado por idade limite no ano 2000 e que recebeu a concessão de isenção do imposto de renda em OUT2017 por enquadramento em Neoplasia Maligna em virtude de câncer de próstata. Em OUT2022, após 5 anos do tratamento curativo do câncer e sem evidências de doença, teve o benefício revogado. Não trouxe quaisquer exames ou relatórios médicos posteriores À 2017.
-
-É hipertenso em uso regular de losartana e refere que recebeu alta do oncologista e do urologista um tempo após  o tratamento realizado e que nunca mais teve consultas com esse especialista e nem fez quaisquer exames relacioanados. No momento queixa-se apenas de poliaciúria noturna e indolor com eventuais perdas urinárias por não conseguir segurar.
-
-Comparece à Inspeção sozinho, afirma que veio guiando seu veículo e que mora com a esposa com quem divide as tarefas do lar.
+> Trata-se de um militar inativo de 82 anos, reformado por idade limite no ano 2000 e que recebeu a concessão de isenção do imposto de renda em OUT2017 por enquadramento em Neoplasia Maligna em virtude de câncer de próstata. Em OUT2022, após 5 anos do tratamento curativo do câncer e sem evidências de doença, teve o benefício revogado. Não trouxe quaisquer exames ou relatórios médicos posteriores À 2017. É hipertenso em uso regular de losartana e refere que recebeu alta do oncologista e do urologista um tempo após  o tratamento realizado e que nunca mais teve consultas com esse especialista e nem fez quaisquer exames relacioanados. No momento queixa-se apenas de poliaciúria noturna e indolor com eventuais perdas urinárias por não conseguir segurar. Comparece à Inspeção sozinho, afirma que veio guiando seu veículo e que mora com a esposa com quem divide as tarefas do lar.
 
 ### LAUDO HISTOPATOLÓGICO:
 
