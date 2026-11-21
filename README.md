@@ -1,5 +1,5 @@
 # assessor-pericial-dgpm406
-
+ 
 <p align="center">
   <img src="assets/capa-dgpm-406.png" alt="Capa da DGPM-406 (9ª Revisão) — Normas Reguladoras para Inspeções de Saúde na Marinha" width="260">
 </p>
@@ -18,6 +18,21 @@ A skill atua como assessor normativo: esclarece dúvidas sobre procedimentos, co
 - Redige os três blocos de uma IS (entrevista, exame clínico e conclusão), com a frase de encerramento e o referenciamento normativo.
 - Enquadra benefícios conforme a Portaria GM-MD nº 3.551/2021 (doenças especificadas em lei).
 - Converte código CID-10 em nome oficial da doença, usando tabela local.
+## Gatilhos e exemplos de uso
+ 
+Cada gatilho aciona um fluxo diferente da skill. Os exemplos abaixo são ilustrativos; use dados hipotéticos.
+ 
+| Gatilho | Exemplo de mensagem | O que a skill faz |
+|---|---|---|
+| Dúvida normativa | "O que a DGPM-406 diz sobre a competência da JRS para IS de Ingresso?" | Localiza o capítulo ou o anexo e responde com a citação da norma |
+| Redação de IS | "Redija uma IS de Controle Periódico de um militar de 45 anos, sem comorbidades" | Aplica a entrevista prévia e produz os três blocos: entrevista, exame clínico e conclusão |
+| Escolha de laudo | "Qual laudo cabe para uma IS de Término de Restrições de um Sargento da ativa?" | Consulta `formas-conclusao.json` e indica só os laudos permitidos para a finalidade e o vínculo |
+| Procedimento | "Guie o procedimento de recurso de primeira instância numa IS de Ingresso" | Descreve as etapas, com a fonte de cada uma |
+| Ingresso normal | `# EFOMM MASC 18` | Gera direto a IS de Ingresso com aptidão, sem entrevista prévia |
+| Código CID | "Qual o nome oficial da doença do CID M51.1?" | Consulta a tabela local `cid10.json` e responde com o nome da doença |
+| Assinatura | `#ASSINATURA` | Retorna o bloco de assinatura, com data no formato DDMMMAAA |
+| Correção durável | `# ATENÇÃO! INFORMAÇÃO PARA CONHECIMENTO:` seguido do texto | Registra a correção em `correcoes.md` e aplica a regra nas respostas seguintes |
+ 
 ## Conteúdo
  
 | Caminho | Conteúdo |
@@ -38,15 +53,15 @@ A skill atua como assessor normativo: esclarece dúvidas sobre procedimentos, co
  
 ## Instalação
  
-**Claude Code:**
- 
-```bash
-git clone https://github.com/Mauriston/assessor-medico-pericial-mb.git ~/.claude/skills/assessor-pericial-dgpm406
-```
- 
-**Claude.ai / Cowork:** envie o arquivo `.skill` pela tela de skills, se a sua conta permitir.
- 
-Detalhes em [`INSTALL.md`](INSTALL.md).
+1. **Baixe a skill:**
+   - Clone o repositório: `git clone https://github.com/Mauriston/assessor-medico-pericial-mb.git`
+   - Ou baixe o ZIP pelo botão **Code** do repositório no GitHub.
+2. **Instale no Claude:**
+   - Claude.ai ou Cowork: em Configurações > Skills, clique em **Upload skill** e selecione a pasta compactada (ou o arquivo `.skill`).
+   - Claude Code: copie a pasta para `~/.claude/skills/assessor-pericial-dgpm406`.
+3. **Ative a skill:** ligue a skill **assessor-pericial-dgpm406** na lista de skills.
+4. **Teste:** peça ao Claude: "O que a DGPM-406 diz sobre a competência da JRS para IS de Ingresso?"
+Detalhes de estrutura e de instalação em [`INSTALL.md`](INSTALL.md).
  
 ## Fontes e limites
  
@@ -62,7 +77,8 @@ Não insira no chat nomes completos, números de identificação pessoal nem dad
 Correções de transcrição, atualizações normativas e novos casos de calibração são bem-vindos por *issue* ou *pull request*. Ao propor uma correção, indique a norma ou a publicação oficial de referência.
  
 ## Licença
-
+ 
 O código e a documentação desta skill (arquivos `SKILL.md`, `INSTALL.md`, `README.md` e os resumos e ferramentas em `referencias/`) são distribuídos sob a licença MIT, conforme o arquivo [`LICENSE`](LICENSE).
-
+ 
 **Esta licença não se aplica às normas citadas.** A DGPM-406 (9ª Revisão), a Portaria GM-MD nº 3.551/2021, as leis e as demais normas reproduzidas ou resumidas em `referencias/` são atos oficiais de seus respectivos órgãos. Os textos aqui transcritos servem à consulta e à redação, não substituem a publicação oficial e não passam a integrar a licença MIT. Consulte sempre o texto vigente no Diário Oficial ou na fonte normativa original.
+ 
