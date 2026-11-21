@@ -34,7 +34,7 @@ assessor-pericial-dgpm406/
 **Claude Code:** clone o repositório na pasta de skills do usuário:
 
 ```bash
-git clone <URL-DO-REPOSITORIO> ~/.claude/skills/assessor-pericial-dgpm406
+git clone https://github.com/Mauriston/assessor-medico-pericial-mb.git ~/.claude/skills/assessor-pericial-dgpm406
 ```
 
 **Claude.ai / Cowork:** envie o arquivo `.skill` pela tela de skills, se a conta permitir.
