@@ -69,3 +69,7 @@ Diante do exposto, esta Junta Regular exara o laudo acima nos termos da alínea 
 
 A inspecionada tomou ciência do direito de recurso administrativo em 1ª instância através da assinatura do termo de reconhecimento de recurso previsto no anexo T da DGPM-406 (9ª Revisão).
 ```
+
+---
+
+[Ir para o exemplo 3 — Gatilho de Ingresso normal, candidata feminina →](exemplo-3-ingresso-normal.md)
