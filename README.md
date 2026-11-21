@@ -55,16 +55,11 @@ Caso fictício, usado para ilustrar o fluxo de uma IS de Verificação de Térmi
 
 **Conclusão na íntegra:**
 
-
-> Inspecionado com fasciíte plantar à esquerda de início há cerca de um mês, associada a tenossinovite do flexor longo do hálux e dos fibulares, em pé com antecedente de correção cirúrgica de deformidade em cavo-varo na adolescência, achados confirmados pela USG de 17SET2026 e coerentes com o exame físico, que evidencia dor à palpação da inserção calcânea da fáscia plantar e dos trajetos tendíneos, marcha discretamente antálgica e tornozelo sem instabilidade ligamentar.
-
-Trata-se de quadro agudo, de natureza inflamatória e potencialmente curável, em tratamento medicamentoso e fisioterápico com resposta parcial, que não justifica afastamento total do trabalho, mas cuja evolução é agravada pela carga mecânica sobre o retropé esquerdo.
-
-A rotina de Taifeiro exige permanência prolongada em ortostatismo e deslocamentos frequentes durante a jornada, o que sobrecarrega a fáscia plantar e os tendões acometidos, perpetuando a inflamação e retardando a recuperação. Da mesma forma, a corrida, os saltos e os exercícios de impacto inerentes ao TAF e ao TFM são incompatíveis com a fase atual do tratamento.
-
-Assim, impõe-se o afastamento temporário de parte de suas atividades laborativas, com restrições para permanecer em pé por períodos superiores a duas horas, para TAF, TFM e sobrecarga sobre o pé esquerdo, por 60 dias, período suficiente para a conclusão da fase inicial do tratamento conservador e reavaliação da resposta clínica, devendo o militar ser inscrito pela OM no programa de reabilitação das deficiências funcionais.
-
-Diante do exposto, esta Junta Regular exara o laudo acima nos termos da alínea e do inciso 6.1.4 e da alínea b do inciso 6.3.1 da DGPM-406 (9ª Rev).
+> "Inspecionado com fasciíte plantar à esquerda de início há cerca de um mês, associada a tenossinovite do flexor longo do hálux e dos fibulares, em pé com antecedente de correção cirúrgica de deformidade em cavo-varo na adolescência, achados confirmados pela USG de 17SET2026 e coerentes com o exame físico, que evidencia dor à palpação da inserção calcânea da fáscia plantar e dos trajetos tendíneos, marcha discretamente antálgica e tornozelo sem instabilidade ligamentar.
+> Trata-se de quadro agudo, de natureza inflamatória e potencialmente curável, em tratamento medicamentoso e fisioterápico com resposta parcial, que não justifica afastamento total do trabalho, mas cuja evolução é agravada pela carga mecânica sobre o retropé esquerdo.
+> A rotina de Taifeiro exige permanência prolongada em ortostatismo e deslocamentos frequentes durante a jornada, o que sobrecarrega a fáscia plantar e os tendões acometidos, perpetuando a inflamação e retardando a recuperação. Da mesma forma, a corrida, os saltos e os exercícios de impacto inerentes ao TAF e ao TFM são incompatíveis com a fase atual do tratamento.
+> Assim, impõe-se o afastamento temporário de parte de suas atividades laborativas, com restrições para permanecer em pé por períodos superiores a duas horas, para TAF, TFM e sobrecarga sobre o pé esquerdo, por 60 dias, período suficiente para a conclusão da fase inicial do tratamento conservador e reavaliação da resposta clínica, devendo o militar ser inscrito pela OM no programa de reabilitação das deficiências funcionais.
+> Diante do exposto, esta Junta Regular exara o laudo acima nos termos da alínea e do inciso 6.1.4 e da alínea b do inciso 6.3.1 da DGPM-406 (9ª Rev)."
 
 
 ## Conteúdo
