@@ -1,7 +1,5 @@
 # Exemplo 1: IS fim VDF de militar da ativa
 
-Caso fictício, redigido no formato da skill para mostrar o fluxo completo: o comando do Presidente, as perguntas da skill e a entrega final.
-
 ## Comando
 
 > Redija uma inspeção de saúde fim VDF de um militar da ativa, um suboficial taifeiro de 46 anos, que tem um histórico de cirurgia para correção de pé cavo-varo aos 13 anos de idade, com osteotomia do calcâneo, osteotomia de Kutsugianis, e que há cerca de um mês abriu um quadro de fasciíte plantar e está em tratamento medicamentoso e com fisioterapia. Exaramos apto com restrições para permanecer por períodos em pé por mais de 2 horas, TAF, TFM e sobrecarga sobre o pé direito por 60 dias.
