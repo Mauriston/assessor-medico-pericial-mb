@@ -92,19 +92,18 @@ CRM-PE 20374
 
 **Exaro o não enquadramento nos benefícios requeridos.**
 
----
 
 ## Comentário — Enquadramento de Benefício
 
-Confirmando o enquadramento antes da redação: nenhuma das duas modalidades requeridas se sustenta no quadro apresentado.
-
-**Preexistência de Invalidez** pressupõe que a invalidez (incapacidade total e permanente para toda e qualquer atividade laborativa) *exista* — a perícia apenas fixa a partir de quando. Não há aqui nenhum elemento, pregresso ou atual, caracterizador de invalidez: o periciado comparece sozinho, dirigindo o próprio veículo, e mantém plena autonomia para AVDs e AIVDs (divide tarefas domésticas com a esposa). O quadro oncológico (próstata, Gleason 6/ISUP 1, T2a, baixo risco, tratamento curativo em 2017) evoluiu para cura clínica documentada, sem evidência de doença há mais de 5 anos. Não existindo invalidez, não há data a fixar — a modalidade é inaplicável por ausência do próprio objeto pericial.
-
-**Auxílio-Invalidez de Militar Inativo** exige, além da invalidez (já afastada acima), necessidade de internação permanente em instituição apropriada e/ou assistência/cuidados permanentes de enfermagem (MP nº 2.215-10/2001; Lei nº 11.421/2006). O relato funcional do periciado é o exato oposto disso.
-
-A queixa atual (poliaciúria noturna indolor com perdas urinárias ocasionais) é inespecífica, sugestiva de quadro prostático benigno relacionado à idade, e carece de qualquer documentação complementar (o periciado não trouxe exames desde 2017) — o que, por si, já impede qualquer enquadramento retrospectivo, dado que a regra probatória do Cap. 9 exige dados fidedignos de absoluta convicção, não achados subjetivos.
-
-Segue a redação nos três blocos.
+> Confirmando o enquadramento antes da redação: nenhuma das duas modalidades requeridas se sustenta no quadro apresentado.
+>
+> **Preexistência de Invalidez** pressupõe que a invalidez (incapacidade total e permanente para toda e qualquer atividade laborativa) *exista* — a perícia apenas fixa a partir de quando. Não há aqui nenhum elemento, pregresso ou atual, caracterizador de invalidez: o periciado comparece sozinho, dirigindo o próprio veículo, e mantém plena autonomia para AVDs e AIVDs (divide tarefas domésticas com a esposa). O quadro oncológico (próstata, Gleason 6/ISUP 1, T2a, baixo risco, tratamento curativo em 2017) evoluiu para cura clínica documentada, sem evidência de doença há mais de 5 anos. Não existindo invalidez, não há data a fixar — a modalidade é inaplicável por ausência do próprio objeto pericial.
+>
+> **Auxílio-Invalidez de Militar Inativo** exige, além da invalidez (já afastada acima), necessidade de internação permanente em instituição apropriada e/ou assistência/cuidados permanentes de enfermagem (MP nº 2.215-10/2001; Lei nº 11.421/2006). O relato funcional do periciado é o exato oposto disso.
+>
+> A queixa atual (poliaciúria noturna indolor com perdas urinárias ocasionais) é inespecífica, sugestiva de quadro prostático benigno relacionado à idade, e carece de qualquer documentação complementar (o periciado não trouxe exames desde 2017) — o que, por si, já impede qualquer enquadramento retrospectivo, dado que a regra probatória do Cap. 9 exige dados fidedignos de absoluta convicção, não achados subjetivos.
+>
+> Segue a redação nos três blocos.
 
 ```txt
 ENTREVISTA
