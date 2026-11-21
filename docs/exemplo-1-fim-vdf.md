@@ -88,4 +88,4 @@ Diante do exposto, esta Junta Regular exara o laudo acima nos termos da alínea 
 
 ---
 
-[Ir para o exemplo 2 — Ingresso com inaptidão →](exemplo-2-ingresso-inaptidao.md)
+#### [Próximo exemplo: `IS Ingresso com laudo de inaptidão` →](exemplo-2-ingresso-inaptidao.md)
