@@ -1,4 +1,4 @@
-# Exemplo 2: IS fim Ingresso na EFOMM, com inaptidão (fictício)
+# Exemplo 2: IS fim Ingresso na EFOMM, com inaptidão
 
 Caso fictício, redigido no formato da skill para mostrar o fluxo completo: o comando do Presidente, as perguntas da skill e a entrega final.
 
