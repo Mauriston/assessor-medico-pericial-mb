@@ -41,7 +41,7 @@ git clone https://github.com/Mauriston/assessor-medico-pericial-mb.git ~/.claude
 
 ## Fontes
 
-- **Nível 1 (normativo, DGPM-406):** os Capítulos 1–18 e os Anexos N, O, U e V estão transcritos localmente e são lidos com Read/Grep. Os demais Anexos (formulários DS-1 a DS-8 e tabelas de uso pontual) não estão transcritos; quando for preciso citação literal deles, a skill pede ao usuário o PDF oficial da DGPM-406.
+- **Nível 1 (normativo, DGPM-406):** os Capítulos 1–18 e os Anexos N, O, U e V estão transcritos localmente e são lidos com Read/Grep. Os demais Anexos (formulários DS-1 a DS-8 e tabelas de uso pontual) não estão transcritos; quando for preciso citação literal deles, a skill lê o PDF local `referencias/dgpm-406/DGPM-406-9a-rev.pdf` (íntegra, 370 páginas).
 - **Nível 2 (normas externas):** se o usuário anexar a norma, ela é a fonte prioritária. Na falta, a skill faz busca controlada em fontes oficiais (`planalto.gov.br`, `in.gov.br`, `portalmedico.org.br`).
 
 ## Dependências
