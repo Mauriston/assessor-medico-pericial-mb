@@ -1,7 +1,6 @@
-# Exemplo 4: IS de controle periódico trienal, militar da ativa (fictício)
-
-Caso fictício. Mostra a IS de controle periódico, que tem conclusão mais simples e exame clínico resumido nos sistemas sem alteração.
-
+# Exemplo 4: IS de controle periódico trienal
+> [DGPM-406 capítulo 4](referencias/dgpm-406/capitulo-04.md)  
+  
 ## Comando
 
 > Redija uma IS de controle periódico trienal de um sargento da ativa, 39 anos, sem queixas e sem alterações informadas. Exaramos apto.
