@@ -1,4 +1,4 @@
-# Exemplo 3: gatilho de Ingresso normal, candidata feminina com atalho "# CONCURSO SEXO IDADE"
+# Exemplo 3: gatilho de IS DE Ingresso norma com atalho '# CONCURSO SEXO IDADE'
 
 
 ## Comando
