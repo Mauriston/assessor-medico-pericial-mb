@@ -2,7 +2,7 @@
 finalidade IS: VDF (militar de carreira)
 laudo: "Apto com restrições"
 anexos enviados: USG do pé
-fonte: DGPM-406, capítulo 6
+fonte: [DGPM-406, capítulo 6](referencias/dgpm-406/capitulo-06.md)
 ---
 
 # Exemplo 1: IS fim VDF de militar da ativa
