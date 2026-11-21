@@ -1,6 +1,6 @@
 # Índice dos Capítulos 1-18 da DGPM-406 (texto-fonte local)
 
-Sumário gerado a partir dos títulos reais de cada `capitulo-XX.md` (Read/Grep direto nesses arquivos — são o próprio texto-fonte, não uma síntese). Use este índice para localizar rapidamente a seção antes de ler o capítulo. Para Anexos, veja `referencias/dgpm-406/anexos/indice-anexos.md` — N, O, U e V estão transcritos localmente; os demais exigem o PDF oficial [correção do Presidente, 19SET2026].
+Sumário gerado a partir dos títulos reais de cada `capitulo-XX.md` (Read/Grep direto nesses arquivos — são o próprio texto-fonte, não uma síntese). Use este índice para localizar rapidamente a seção antes de ler o capítulo. Para Anexos, veja `referencias/dgpm-406/anexos/indice-anexos.md` — N, O, U e V estão transcritos localmente; os demais são lidos no PDF local da DGPM-406 (`referencias/dgpm-406/DGPM-406-9a-rev.pdf`, 370 páginas) [correção do Presidente, 19SET2026].
 
 ## Índice de Capítulos
 
@@ -56,4 +56,4 @@ Sumário gerado a partir dos títulos reais de cada `capitulo-XX.md` (Read/Grep 
 ## Arquivos
 
 - `referencias/dgpm-406/capitulo-01.md` a `capitulo-18.md` — texto-fonte integral do corpo normativo (ver tabela acima para o mapeamento # → arquivo, ex.: Cap. 9 → `capitulo-09.md`).
-- `referencias/dgpm-406/anexos/` — Anexos N, O, U e V transcritos (texto-fonte + JSON estruturado para N e O); `indice-anexos.md` mapeia todos os Anexos A–AB e sinaliza a fonte de cada um (local vs. PDF oficial).
+- `referencias/dgpm-406/anexos/` — Anexos N, O, U e V transcritos (texto-fonte + JSON estruturado para N e O); `indice-anexos.md` mapeia todos os Anexos A–AB e sinaliza a fonte de cada um (local vs. PDF local).
