@@ -1,7 +1,7 @@
 # assessor-pericial-dgpm406
 
 <p align="center">
-  <img src="assets/capa-dgpm-406.png" alt="Capa da DGPM-406 (9ª Revisão) — Normas Reguladoras para Inspeções de Saúde na Marinha" width="320">
+  <img src="assets/capa-dgpm-406.png" alt="Capa da DGPM-406 (9ª Revisão) — Normas Reguladoras para Inspeções de Saúde na Marinha" width="720">
 </p>
  
 Skill para Claude que assessora a redação de documentos médico-periciais de Inspeção de Saúde (IS) com base na **DGPM-406 (9ª Revisão)**, normas da Marinha do Brasil, e na legislação correlata.
