@@ -4,18 +4,18 @@ Caso fictício. Os nomes, datas, idade, local, unidade e resultados de exame for
 
 ## Comando
 
-`/assessor-pericial-dgpm406` 
-
-Redija uma IS para concessão de benefícios nas seguintes modalidades:
-
-* PREEXISTÊNCIA DE INVALIDEZ
-* AUXÍLIO-INVALIDEZ DE MILITAR INATIVO
-
-Trata-se de um militar inativo de 82 anos, reformado por idade limite no ano 2000 e que recebeu a concessão de isenção do imposto de renda em OUT2017 por enquadramento em Neoplasia Maligna em virtude de câncer de próstata. Em OUT2022, após 5 anos do tratamento curativo do câncer e sem evidências de doença, teve o benefício revogado. Não trouxe quaisquer exames ou relatórios médicos posteriores À 2017.
-
-É hipertenso em uso regular de losartana e refere que recebeu alta do oncologista e do urologista um tempo após  o tratamento realizado e que nunca mais teve consultas com esse especialista e nem fez quaisquer exames relacioanados. No momento queixa-se apenas de poliaciúria noturna e indolor com eventuais perdas urinárias por não conseguir segurar.
-
-Comparece à Inspeção sozinho, afirma que veio guiando seu veículo e que mora com a esposa com quem divide as tarefas do lar.
+> `/assessor-pericial-dgpm406` 
+>
+> Redija uma IS para concessão de benefícios nas seguintes modalidades:
+> 
+> * PREEXISTÊNCIA DE INVALIDEZ
+> * AUXÍLIO-INVALIDEZ DE MILITAR INATIVO
+> 
+> Trata-se de um militar inativo de 82 anos, reformado por idade limite no ano 2000 e que recebeu a concessão de isenção do imposto de renda em OUT2017 por enquadramento em Neoplasia Maligna em virtude de câncer de próstata. Em OUT2022, após 5 anos do tratamento curativo do câncer e sem evidências de doença, teve o benefício revogado. Não trouxe quaisquer exames ou relatórios médicos posteriores À 2017.
+> 
+> É hipertenso em uso regular de losartana e refere que recebeu alta do oncologista e do urologista um tempo após  o tratamento realizado e que nunca mais teve consultas com esse especialista e nem fez quaisquer exames relacioanados. No momento queixa-se apenas de poliaciúria noturna e indolor com eventuais perdas urinárias por não conseguir segurar.
+> 
+> Comparece à Inspeção sozinho, afirma que veio guiando seu veículo e que mora com a esposa com quem divide as tarefas do lar.
 
 
 ```txt
@@ -105,6 +105,8 @@ CRM-PE 20374
 >
 > Segue a redação nos três blocos.
 
+## Entrega
+
 ```txt
 ENTREVISTA
 
@@ -135,6 +137,7 @@ Refere residir com a esposa, com quem divide as tarefas domésticas, realizando 
 Nega necessidade de auxílio de terceiros para deambulação, higiene, alimentação ou demais cuidados pessoais.
 ```
 
+
 ```txt
 EXAME CLÍNICO
 
@@ -155,6 +158,7 @@ Avaliação funcional e cognitiva: orientado auto e alopsiquicamente, discurso c
 Demais aparelhos e sistemas sem alterações dignas de nota.
 ```
 
+
 ```txt
 CONCLUSÃO
 
@@ -167,7 +171,7 @@ Registra-se, por fim, que a queixa urinária atual (poliaciúria noturna indolor
 Exaramos o seguinte laudo: "Não há elementos médico-periciais que caracterizem invalidez, atual ou preexistente, tampouco necessidade de assistência ou cuidados permanentes de enfermagem ou de internação institucional permanente, não se enquadrando o periciado nas modalidades de Preexistência de Invalidez e de Auxílio-Invalidez de Militar Inativo requeridas." Em conformidade com o disposto no Capítulo 9 da DGPM-406 (9ª Rev) e, quanto à modalidade de Auxílio-Invalidez de Militar Inativo, na MP nº 2.215-10/2001 e na Lei nº 11.421/2006.
 ```
 
-## Entrega
+
 
 **ENTREVISTA**
 
