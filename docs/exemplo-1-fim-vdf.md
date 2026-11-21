@@ -1,5 +1,5 @@
 ---
-finalidade IS: VDF (militar de carreira)
+finalidade IS: `VDF` (militar de carreira)
 laudo: "Apto com restrições"
 anexos enviados: USG do pé
 ---
