@@ -44,4 +44,4 @@ Diante do exposto, esta Junta Regular exara o laudo acima nos termos da alínea 
 ```
 ---
 
-#### [Próximo exemplo: IS Benefício Auxílio Invalidez por Neoplasia Maligna →](exemplo-4-controle-trienal.md)
+#### [Próximo exemplo: IS Benefício Auxílio Invalidez por Neoplasia Maligna →](exemplo-5-beneficios.md)
