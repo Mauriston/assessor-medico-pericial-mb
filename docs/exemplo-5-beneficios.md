@@ -1,6 +1,6 @@
 # Exemplo 5: IS de benefícios, preexistência de invalidez e auxílio-invalidez de militar reformado
 > * [DGPM-406 capítulo 9](referencias/dgpm-406/capitulo-09.md)
-> *   (anexo-v.md)
+> *   [Anexo V](anexo-v.md)
 > * [Portaria GM-MD 3551/2021](portaria-GM-MD-3551-2021.pdf)
 > * [Neoplasia Maligna](09-neoplasia-maligna.md)
 
