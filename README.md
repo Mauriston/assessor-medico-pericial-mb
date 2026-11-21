@@ -58,7 +58,7 @@ Não insira no chat nomes completos, números de identificação pessoal nem dad
 Correções de transcrição, atualizações normativas e novos casos de calibração são bem-vindos por *issue* ou *pull request*. Ao propor uma correção, indique a norma ou a publicação oficial de referência.
  
 ## Licença
- 
-<!-- Defina a licença antes de publicar. -->
-A definir.
- 
+
+O código e a documentação desta skill (arquivos `SKILL.md`, `INSTALL.md`, `README.md` e os resumos e ferramentas em `referencias/`) são distribuídos sob a licença MIT, conforme o arquivo [`LICENSE`](LICENSE).
+
+**Esta licença não se aplica às normas citadas.** A DGPM-406 (9ª Revisão), a Portaria GM-MD nº 3.551/2021, as leis e as demais normas reproduzidas ou resumidas em `referencias/` são atos oficiais de seus respectivos órgãos. Os textos aqui transcritos servem à consulta e à redação, não substituem a publicação oficial e não passam a integrar a licença MIT. Consulte sempre o texto vigente no Diário Oficial ou na fonte normativa original.
