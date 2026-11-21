@@ -1,4 +1,5 @@
 # Exemplo 5: IS de benefícios, preexistência de invalidez e auxílio-invalidez de militar reformado
+> [DGPM-406 capítulo 9](referencias/dgpm-406/capitulo-09.md)  
 
 
 ## Comando
