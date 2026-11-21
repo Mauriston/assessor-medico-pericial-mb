@@ -1,7 +1,5 @@
 # Exemplo 2: IS de Ingresso com laudo de inaptidão
 
-Caso fictício, redigido no formato da skill para mostrar o fluxo completo: o comando do Presidente, as perguntas da skill e a entrega final.
-
 ## Comando
 
 > Redija uma IS fim Ingresso na EFOMM de uma candidata de 18 anos, sem queixas no momento. Em 2025 foi submetida a tireoidectomia parcial por adenoma folicular, com hipotireoidismo pós-cirúrgico. Está em acompanhamento com endocrinologista e apresenta dois relatórios: em um, a levotiroxina estava em 50 mcg/dia; no outro, a dose foi aumentada para 75 mcg/dia. O TSH atual é 7,1, acima da meta de 5,0. Como a alínea l do item 2 do Anexo N admite hipotireoidismo somente quando comprovadamente compensado, exaramos inapta pelo CID E89.0.
