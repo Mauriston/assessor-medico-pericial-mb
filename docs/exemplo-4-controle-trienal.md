@@ -43,3 +43,6 @@ Militar da ativa, sargento, 39 anos, submetido a controle periódico trienal, se
 
 Diante do exposto, esta Junta Regular exara o laudo acima nos termos da alínea a do item 4.1.5 do Capítulo 4 da DGPM-406 (9ª Rev).
 ```
+---
+
+#### [Ir para o exemplo 5 — IS Benefício Invalidez Neoplasia Maligna →](exemplo-4-controle-trienal.md)
