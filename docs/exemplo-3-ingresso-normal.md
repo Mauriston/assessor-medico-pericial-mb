@@ -1,6 +1,6 @@
 # Exemplo 3: gatilho de IS DE Ingresso norma com atalho '# CONCURSO SEXO IDADE'
-* [DGPM-406 capítulo 3](referencias/dgpm-406/capitulo-03.md)  
-* [Anexo N](referencias/dgpm-406/anexos/anexo-n.md)
+> [DGPM-406 capítulo 3](referencias/dgpm-406/capitulo-03.md)  
+> [Anexo N](referencias/dgpm-406/anexos/anexo-n.md)
 
 ## Comando
 
