@@ -1,6 +1,6 @@
 # Exemplo 3: gatilho de Ingresso normal, candidata feminina (fictício)
 
-Caso fictício. Mostra o atalho `# CONCURSO SEXO IDADE`, que dispensa a entrevista prévia e as perguntas à parte, com a entrega final direta.
+> Mostra o atalho `# CONCURSO SEXO IDADE`, que dispensa a entrevista prévia e as perguntas à parte, com a entrega final direta.
 
 ## Comando
 
