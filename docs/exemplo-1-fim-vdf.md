@@ -4,11 +4,8 @@ laudo: "Apto com restrições"
 anexos enviados: USG do pé
 ---
 
-| Finalidade IS | VDF (militar de carreira) |
-| laudo | "Apto com restrições"|
-| fonte | [DGPM-406 capítulo 6](referencias/dgpm-406/capitulo-06.md) |
-
 # Exemplo 1: IS fim VDF de militar da ativa
+[DGPM-406 capítulo 6](referencias/dgpm-406/capitulo-06.md)
 
 ## Comando
 
