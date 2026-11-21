@@ -2,7 +2,7 @@
 > * [DGPM-406 - Capítulo 9](referencias/dgpm-406/capitulo-09.md)
 > * [DGPM-406 - Anexo V](anexo-v.md)
 > * [Portaria GM-MD 3551/2021](portaria-GM-MD-3551-2021.pdf)
->   * [Doença de lei: Neoplasia Maligna](09-neoplasia-maligna.md)
+> * [Doença de lei: Neoplasia Maligna](09-neoplasia-maligna.md)
 
 
 ## Comando
