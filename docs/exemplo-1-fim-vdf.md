@@ -1,4 +1,4 @@
-# Exemplo 1: IS fim VDF de militar da ativa (fictício)
+# Exemplo 1: IS fim VDF de militar da ativa
 
 Caso fictício, redigido no formato da skill para mostrar o fluxo completo: o comando do Presidente, as perguntas da skill e a entrega final.
 
@@ -85,3 +85,7 @@ Assim, impõe-se o afastamento temporário de parte de suas atividades laborativ
 
 Diante do exposto, esta Junta Regular exara o laudo acima nos termos da alínea e do inciso 6.1.4 e da alínea b do inciso 6.3.1 da DGPM-406 (9ª Rev).
 ```
+
+---
+
+[Ir para o exemplo 2 — Ingresso com inaptidão →](exemplo-2-ingresso-inaptidao.md)
