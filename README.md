@@ -50,7 +50,7 @@ Detalhes em [`INSTALL.md`](INSTALL.md).
  
 ## Fontes e limites
  
-- **Anexos não transcritos:** os Anexos A a M, P a T e W a AB (majoritariamente formulários DS-1 a DS-8 e tabelas de uso pontual) não estão no pacote. Quando for preciso citação literal deles, a skill solicita o PDF oficial da DGPM-406 ao usuário.
+- **Anexos não transcritos:** os Anexos A a M, P a T e W a AB (majoritariamente formulários DS-1 a DS-8 e tabelas de uso pontual) não estão no pacote. Quando for preciso citação literal deles, a skill usa o PDF da DGPM-406 incluído em `referencias/dgpm-406/DGPM-406-9a-rev.pdf`.
 - **Transcrições:** os textos de Portaria e de Anexos foram convertidos de PDF para Markdown. Confira no texto publicado os limiares numéricos que decidam um enquadramento.
 - **Normas externas:** se o usuário anexar a norma, ela é usada como fonte prioritária. Na falta, a skill pode fazer busca controlada em fontes oficiais.
 ## Privacidade
