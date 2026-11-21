@@ -1,6 +1,5 @@
 # Exemplo 5: IS de benefícios, preexistência de invalidez e auxílio-invalidez de militar reformado
 
-Caso fictício. Os nomes, datas, idade, local, unidade e resultados de exame foram inventados para este exemplo. Mostra uma IS de benefícios com duas modalidades e o não enquadramento, com a frase de ciência de recurso.
 
 ## Comando
 
