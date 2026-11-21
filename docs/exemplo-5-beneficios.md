@@ -4,39 +4,93 @@ Caso fictício. Os nomes, datas, idade, local, unidade e resultados de exame for
 
 ## Comando
 
-> `/assessor-pericial-dgpm406` Redija uma IS para concessão de benefícios nas seguintes modalidades:
-> * PREEXISTÊNCIA DE INVALIDEZ
-> * AUXÍLIO-INVALIDEZ DE MILITAR INATIVO
-> Trata-se de um militar inativo de 82 anos, reformado por idade limite no ano 2000 e que recebeu a concessão de isenção do imposto de renda em OUT2017 por enquadramento em Neoplasia Maligna em virtude de câncer de próstata. Em OUT2022, após 5 anos do tratamento curativo do câncer e sem evidências de doença, teve o benefício revogado. Não trouxe quaisquer exames ou relatórios médicos posteriores À 2017. É hipertenso em uso regular de losartana e refere que recebeu alta do oncologista e do urologista um tempo após  o tratamento realizado e que nunca mais teve consultas com esse especialista e nem fez quaisquer exames relacioanados. No momento queixa-se apenas de poliaciúria noturna e indolor com eventuais perdas urinárias por não conseguir segurar. Comparece à Inspeção sozinho, afirma que veio guiando seu veículo e que mora com a esposa com quem divide as tarefas do lar.
+`/assessor-pericial-dgpm406` 
 
-### LAUDO HISTOPATOLÓGICO:
+Redija uma IS para concessão de benefícios nas seguintes modalidades:
+
+* PREEXISTÊNCIA DE INVALIDEZ
+* AUXÍLIO-INVALIDEZ DE MILITAR INATIVO
+
+Trata-se de um militar inativo de 82 anos, reformado por idade limite no ano 2000 e que recebeu a concessão de isenção do imposto de renda em OUT2017 por enquadramento em Neoplasia Maligna em virtude de câncer de próstata. Em OUT2022, após 5 anos do tratamento curativo do câncer e sem evidências de doença, teve o benefício revogado. Não trouxe quaisquer exames ou relatórios médicos posteriores À 2017.
+
+É hipertenso em uso regular de losartana e refere que recebeu alta do oncologista e do urologista um tempo após  o tratamento realizado e que nunca mais teve consultas com esse especialista e nem fez quaisquer exames relacioanados. No momento queixa-se apenas de poliaciúria noturna e indolor com eventuais perdas urinárias por não conseguir segurar.
+
+Comparece à Inspeção sozinho, afirma que veio guiando seu veículo e que mora com a esposa com quem divide as tarefas do lar.
+
 
 ```txt
+# LAUDO HISTOPATOLÓGICO:
 
 SPAC - STUDIO DE PATOLOGIA CIRÚRGICA
+
 LAUDO HISTOPATOLÓGICO DATADO DE 27JAN2017.
 
 CONCLUSÃO:
 
 Produto de biópsia transretal da próstata, guiada por USG:
+
 1) Base direita:
+
 Adenocarcinoma acinar usual de próstata, Gleason 6 (3+3), grupo prognóstico ISUP: 1, ocupando 70% da amostra.
+
 Infiltração neoplásica perineural, não detectada.
+
 2) Terço médio direito:
+
 Adenocarcinoma acinar usual de próstata, Gleason 6 (3+3), grupo prognóstico ISUP: 1, ocupando 10% da amostra.
+
 Infiltração neoplásica perineural, não detectada.
+
 3) Ápice direito:
+
 Tecido prostático sem evidências de neoplasia.
+
 4) Base esquerda:
+
 Tecido prostático sem evidências de neoplasia.
+
 5) Terço médio esquerdo:
+
 Tecido prostático sem evidências de neoplasia.
+
 6) Ápice esquerdo:
+
 Tecido prostático sem evidências de neoplasia.
 
 DRA. ANA VIRGÍNIA GUENDLER
+
 CRM-PE 5597
+
 ```
+
+
+```txt
+### PARECER ONCOLOGIA
+
+HOSPITAL ESPERANÇA - RECIFE - PE
+RELATÓRIO MÉDICO DATADO DE 19JUL2017.
+
+Paciente portador de ADENOCARCINOMA DA PRÓSTATA, com as seguintes características:
+1- Doença unilobar- 2 fragmentos (70 e 10%)
+2- Gleason 6 (3+3)
+3- PSA inicial - 5,04
+4- Estadio I-T2a
+5- Classificação de risco: BAIXO
+
+PROPOSTA TERAPEUTICA:
+1- Cirurgia radical
+2- Radioterapia externa radical
+O paciente decidiu pela radioterapia externa.
+Está em programação para tratamento.
+CID 10 - C61.
+
+DR. JAYME JOSÉ GOUVEIA FILHO
+ONCOLOGIA
+CRM-PE 20374
+```
+
+
+Exaro o não enquadramento nos benefícios requeridos.
 
 ## Perguntas da skill
 
