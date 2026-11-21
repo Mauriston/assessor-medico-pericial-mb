@@ -1,9 +1,9 @@
-# Exemplo 3: gatilho de Ingresso normal, candidata feminina com atalho `# CONCURSO SEXO IDADE`
+# Exemplo 3: gatilho de Ingresso normal, candidata feminina com atalho "# CONCURSO SEXO IDADE"
 
 
 ## Comando
 
-> # CFSD-FN FEM 21
+> "# CFSD-FN FEM 21"
 
 ## Perguntas da skill
 
